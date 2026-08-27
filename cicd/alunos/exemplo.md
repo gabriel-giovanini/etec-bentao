@@ -1,4 +1,4 @@
-# Gabriel Giovanini & Allan
+# Gabriel Giovanini & Allan & Deus
 
 Trabalho com DevOps e infraestrutura, e criei este projeto para a aula.
 
